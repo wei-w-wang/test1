@@ -1,0 +1,97 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=TX, L=Dallas, O=Company, OU=Community, CN=Company CA/name=server/emailAddress=weiwangcareer@gmail.com
+        Validity
+            Not Before: Nov 12 04:52:20 2017 GMT
+            Not After : Nov 10 04:52:20 2027 GMT
+        Subject: C=US, ST=TX, L=Dallas, O=Company, OU=Community, CN=client1/name=server/emailAddress=weiwangcareer@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:da:2f:7b:0c:43:d2:4e:76:38:ab:93:98:41:78:
+                    ac:bd:fd:38:5e:8f:a9:41:13:5b:aa:fb:11:e6:41:
+                    65:37:28:cb:cd:7d:4c:dd:b6:2d:4f:66:25:26:8c:
+                    3b:41:36:e3:e9:07:b4:a8:0d:e7:ea:2a:09:89:e9:
+                    da:db:a5:dd:66:e4:c2:41:9e:eb:2a:0b:29:de:47:
+                    82:82:6c:5f:ef:c9:45:d3:ae:5d:1f:3b:38:16:48:
+                    38:94:65:17:72:8b:83:bc:f0:50:cc:94:90:2a:f4:
+                    e8:80:56:81:78:00:88:f9:60:14:60:0d:5c:13:45:
+                    dc:1b:76:10:de:15:5e:d6:90:1c:48:d8:36:a5:f1:
+                    fa:66:94:cf:37:fd:f5:42:a8:51:94:13:42:0b:cb:
+                    fe:64:0e:33:82:b2:2b:e4:d8:d6:d0:22:51:0b:50:
+                    b6:ea:6a:f3:1a:8a:f2:f5:0d:69:0e:59:d5:f7:0a:
+                    76:a4:41:ab:c2:3c:b0:49:18:99:19:15:ea:c3:5d:
+                    b0:e8:e9:d4:58:30:0f:81:7a:a5:55:11:8e:00:89:
+                    98:52:9a:73:49:29:79:bd:4d:39:4b:4a:9d:2a:c1:
+                    4f:95:35:92:94:f3:58:56:b2:b4:17:f3:3d:b9:02:
+                    3f:83:ad:43:0e:be:46:ef:ee:85:0e:fb:2f:3f:06:
+                    ad:73
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                91:DF:C9:4E:57:02:DF:FF:54:E1:A5:12:06:A5:7F:5B:2C:CA:07:B8
+            X509v3 Authority Key Identifier: 
+                keyid:39:6C:38:A9:93:3D:91:7D:C7:4F:A8:21:0F:21:2A:F7:39:EA:76:D9
+                DirName:/C=US/ST=TX/L=Dallas/O=Company/OU=Community/CN=Company CA/name=server/emailAddress=weiwangcareer@gmail.com
+                serial:8E:C4:73:6A:E3:B8:A0:94
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Subject Alternative Name: 
+                DNS:client1
+    Signature Algorithm: sha256WithRSAEncryption
+         79:29:09:41:b1:3a:23:db:5a:90:dc:29:96:ba:23:ac:bc:f4:
+         ad:62:79:75:1f:f4:22:dd:ae:01:85:62:61:d8:f2:60:30:8c:
+         48:2c:0c:50:75:77:b6:6b:39:8d:c3:ce:49:b1:ae:26:e7:c8:
+         1a:03:a7:24:2c:2f:73:e9:d4:68:99:75:f0:4d:fa:96:68:d4:
+         7a:fe:c0:9b:b1:ab:4f:04:36:a9:ca:dd:50:cb:07:65:6a:bd:
+         8e:fd:ed:b0:d7:03:1c:7a:aa:ac:fe:bc:0b:d9:3b:f0:fe:ba:
+         c0:59:59:e3:34:27:ec:1b:5d:59:0e:ee:7f:f6:0b:e0:76:6c:
+         41:25:0e:4d:e1:58:c5:03:82:02:31:fa:2b:5d:2e:2c:43:8c:
+         1a:20:43:22:74:a8:cd:38:52:5f:4a:82:63:a5:02:87:48:81:
+         46:45:02:a7:dd:5e:a2:e5:95:5f:e4:d2:ac:70:bc:2d:28:3e:
+         79:8d:48:f6:6f:9a:a8:8b:d4:68:80:cf:28:2d:9c:5f:73:a6:
+         4b:ad:ce:8a:01:ce:10:05:86:cd:1f:0d:e8:e7:b1:61:4e:1e:
+         28:3a:4e:b2:9c:39:56:a8:91:f5:33:f6:10:41:70:17:dd:e6:
+         37:23:98:fd:33:46:06:5b:ac:9f:eb:05:ce:f9:d6:14:15:65:
+         65:43:e8:52
+-----BEGIN CERTIFICATE-----
+MIIFJDCCBAygAwIBAgIBAjANBgkqhkiG9w0BAQsFADCBnzELMAkGA1UEBhMCVVMx
+CzAJBgNVBAgTAlRYMQ8wDQYDVQQHEwZEYWxsYXMxEDAOBgNVBAoTB0NvbXBhbnkx
+EjAQBgNVBAsTCUNvbW11bml0eTETMBEGA1UEAxMKQ29tcGFueSBDQTEPMA0GA1UE
+KRMGc2VydmVyMSYwJAYJKoZIhvcNAQkBFhd3ZWl3YW5nY2FyZWVyQGdtYWlsLmNv
+bTAeFw0xNzExMTIwNDUyMjBaFw0yNzExMTAwNDUyMjBaMIGcMQswCQYDVQQGEwJV
+UzELMAkGA1UECBMCVFgxDzANBgNVBAcTBkRhbGxhczEQMA4GA1UEChMHQ29tcGFu
+eTESMBAGA1UECxMJQ29tbXVuaXR5MRAwDgYDVQQDEwdjbGllbnQxMQ8wDQYDVQQp
+EwZzZXJ2ZXIxJjAkBgkqhkiG9w0BCQEWF3dlaXdhbmdjYXJlZXJAZ21haWwuY29t
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2i97DEPSTnY4q5OYQXis
+vf04Xo+pQRNbqvsR5kFlNyjLzX1M3bYtT2YlJow7QTbj6Qe0qA3n6ioJiena26Xd
+ZuTCQZ7rKgsp3keCgmxf78lF065dHzs4Fkg4lGUXcouDvPBQzJSQKvTogFaBeACI
++WAUYA1cE0XcG3YQ3hVe1pAcSNg2pfH6ZpTPN/31QqhRlBNCC8v+ZA4zgrIr5NjW
+0CJRC1C26mrzGory9Q1pDlnV9wp2pEGrwjywSRiZGRXqw12w6OnUWDAPgXqlVRGO
+AImYUppzSSl5vU05S0qdKsFPlTWSlPNYVrK0F/M9uQI/g61DDr5G7+6FDvsvPwat
+cwIDAQABo4IBajCCAWYwCQYDVR0TBAIwADAtBglghkgBhvhCAQ0EIBYeRWFzeS1S
+U0EgR2VuZXJhdGVkIENlcnRpZmljYXRlMB0GA1UdDgQWBBSR38lOVwLf/1ThpRIG
+pX9bLMoHuDCB1AYDVR0jBIHMMIHJgBQ5bDipkz2RfcdPqCEPISr3Oep22aGBpaSB
+ojCBnzELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMQ8wDQYDVQQHEwZEYWxsYXMx
+EDAOBgNVBAoTB0NvbXBhbnkxEjAQBgNVBAsTCUNvbW11bml0eTETMBEGA1UEAxMK
+Q29tcGFueSBDQTEPMA0GA1UEKRMGc2VydmVyMSYwJAYJKoZIhvcNAQkBFhd3ZWl3
+YW5nY2FyZWVyQGdtYWlsLmNvbYIJAI7Ec2rjuKCUMBMGA1UdJQQMMAoGCCsGAQUF
+BwMCMAsGA1UdDwQEAwIHgDASBgNVHREECzAJggdjbGllbnQxMA0GCSqGSIb3DQEB
+CwUAA4IBAQB5KQlBsToj21qQ3CmWuiOsvPStYnl1H/Qi3a4BhWJh2PJgMIxILAxQ
+dXe2azmNw85Jsa4m58gaA6ckLC9z6dRomXXwTfqWaNR6/sCbsatPBDapyt1Qywdl
+ar2O/e2w1wMceqqs/rwL2Tvw/rrAWVnjNCfsG11ZDu5/9gvgdmxBJQ5N4VjFA4IC
+MforXS4sQ4waIEMidKjNOFJfSoJjpQKHSIFGRQKn3V6i5ZVf5NKscLwtKD55jUj2
+b5qoi9RogM8oLZxfc6ZLrc6KAc4QBYbNHw3o57FhTh4oOk6ynDlWqJH1M/YQQXAX
+3eY3I5j9M0YGW6yf6wXO+dYUFWVlQ+hS
+-----END CERTIFICATE-----
